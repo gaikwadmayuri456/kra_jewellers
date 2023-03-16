@@ -22,6 +22,6 @@ app.add_middleware(
 
 # Press the green button in the gutter to run the script.
 if __name__ == "__main__":
-    run("main:app", host="0.0.0.0", port=5555, reload=True)
+    run("main:app", host="0.0.0.0", port=5556, reload=True)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
